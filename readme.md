@@ -1,3 +1,22 @@
+```python
+    ___   __________  ______  ____  ___
+   /   | / ____/ __ \/  _/ / / /  |/  /
+  / /| |/ / __/ /_/ // // / / / /|_/ / 
+ / ___ / /_/ / _, _// // /_/ / /  / /  
+/_/  |_\____/_/ |_/___/\____/_/  /_/   
+                                       
+
+```
+</br>
+
+[![GitHub repo size](https://img.shields.io/github/repo-size/Defcon27/AGRIUM.svg?logo=git&style=social)](https://github.com/Defcon27/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Defcon27/AGRIUM.svg?logo=python&style=social)](https://github.com/Defcon27/AGRIUM)
+ [![GitHub last commit](https://img.shields.io/github/last-commit/Defcon27/AGRIUM.svg?color=critical&logo=github&style=social)](https://github.com/Defcon27/AGRIUM/) [![GitHub contributors](https://img.shields.io/github/contributors/Defcon27/AGRIUM.svg)](https://GitHub.com/Defcon27/AGRIUM/graphs/contributors/) [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+ </br>
+ [![GitHub issues](https://img.shields.io/github/issues/Defcon27/AGRIUM.svg)](https://GitHub.com/Defcon27/AGRIUM/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Defcon27/AGRIUM.svg)](https://GitHub.com/Defcon27/AGRIUM/issues?q=is%3Aissue+is%3Aclosed)
+</br>
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Defcon27/AGRIUM.svg)](https://GitHub.com/Defcon27/AGRIUM/pull/) [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Defcon27/AGRIUM.svg)](https://GitHub.com/Defcon27/AGRIUM/pull/)
+</br>
+
 ### THE PROBLEM WE ARE AIMING TO SOLVE:
 ```txt
 Statistical studies indicate that 66% of people will live in cities by 2050 while only a few people work in farming. There will bea 
