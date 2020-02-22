@@ -9,12 +9,12 @@
 
 
 ## Work done
-[x] We got the bot up and running using mobile
-[x] user control using web interface
+- [x] We got the bot up and running using mobile
+- [x] user control using web interface
 
 
 ## Work in Progress
-[ ] Transfer learning to detect defect in crop
+- [ ] Transfer learning to detect defect in crop
 
 
 ## Functionalities
