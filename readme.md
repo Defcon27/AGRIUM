@@ -54,3 +54,7 @@ Thus with this kind of robotic tech, we could enable more reliable monitoring of
 - All data can be stored on the cloud so that farmers can easily manage and share details regarding their farm data.
 - Easy to use
 - Very Accessible
+
+
+
+![Image of Bot](https://github.com/Defcon27/AGRIUM/blob/master/img/IMG_20200222_132315.jpg)
