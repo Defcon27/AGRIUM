@@ -31,7 +31,7 @@ This situation has arisen due to poor monitoring and management of crops. They l
 ### TECHNOLOGY STACK:
 - Python
 - Flask
-- IoT
+- IoT: Raspberry Pi
 - Cloud
 - HTML
 - CSS
